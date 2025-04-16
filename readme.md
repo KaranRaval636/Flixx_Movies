@@ -1,23 +1,39 @@
-# Flixx App
+## 🎬 FLIXX - Movie & TV Show App
 
-Movie info application built with vanilla JavaScript that uses **version 3** of the [TMDB API](https://developers.themoviedb.org/3)
+## 📌 About
+FLIXX is a modern and responsive movie and TV show web app that fetches real-time data from a movie API. It displays a dynamic list of **Now Playing** and **Popular Movies** along with posters, ratings, and release dates. The app is built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
 
-This is part of my **Modern JS From The Beginning 2.0** course
 
-<img src="images/screen.jpg" width="500">
+## 🎥 Preview
+🔗 **Try the App Here:** [FLIXX - Movie & TV Show Live Demo](https://karanraval636.github.io/Flixx_Movies/)
 
-This includes the most populr movies and TV shows with detail pages, a search box for movies and shows with full pagination and a slider for movies that are currently playing in theaters. The slider uses the [Swiper](https://swiperjs.com) library.
+![screencapture-127-0-0-1-5500-index-html-2025-04-14-14_39_08](https://github.com/user-attachments/assets/334920a4-9d52-41cc-9f67-e4d79768cbd6)
 
-## Usage
 
-Just clone or download and then register for a free API key at https://www.themoviedb.org/settings/api
+## 🚀 Features
+- 🎞️ Showcases "Now Playing" movies with ratings and posters  
+- 🔥 Displays popular movies with release dates  
+- 🔍 Search functionality for movies and TV shows  
+- 💡 Clean and responsive UI using Bootstrap  
+- 🌐 Real-time data fetched from a movie API 
 
-Once you get your key, just add it to the `api.apiKey` value in the global state at the top.
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- JavaScript 
+- Movie API (TMDB)
 
-**Note:** If you are using this as a production project, you should not store this in the client. You can create a proxy server and store your key there. I may add that to the repo later on.
+## 📦 Installation
+To run this project locally:
 
-I also may convert this to use a module bundler such as Vite or Webpack.
+1. Clone the repository:
+   ```sh
+   https://github.com/KaranRaval636/Flixx_Movies.git
 
-## Theme (HTML & CSS)
+2. Navigate to the project folder:
+   ```sh
+   cd flixx_Movies
 
-I also included the theme here for you to download. It does not include any JavaScript at all. This is what you should use if you are following along with the course.
+## 💡 Contributing
+Feel free to fork this repository, open issues, and submit pull requests to improve the project! 😊
