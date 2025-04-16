@@ -5,7 +5,7 @@ FLIXX is a modern and responsive movie and TV show web app that fetches real-tim
 
 
 ## 🎥 Preview
-🔗 **Try the App Here:** [FLIXX - Movie & TV Show Live Demo](https://karanraval636.github.io/Flixx_Movies/)
+🔗 **Try the App Here:** [FLIXX - Movie & TV Show Live Demo](https://flixx-movies.vercel.app/)
 
 ![screencapture-127-0-0-1-5500-index-html-2025-04-14-14_39_08](https://github.com/user-attachments/assets/334920a4-9d52-41cc-9f67-e4d79768cbd6)
 
